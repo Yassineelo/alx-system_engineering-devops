@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -falht | head 10
+ls -falt | head -n 10
