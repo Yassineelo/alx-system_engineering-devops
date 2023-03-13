@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -dlht | head -10
