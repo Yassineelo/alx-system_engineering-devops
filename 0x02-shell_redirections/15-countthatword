@@ -1,2 +1,2 @@
 #!/bin/bash
-cat | grep -c ^bin
+cat | grep -wc ^bin
