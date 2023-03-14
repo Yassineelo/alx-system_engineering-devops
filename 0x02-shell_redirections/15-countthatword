@@ -1,2 +1,2 @@
 #!/bin/bash
-cat | grep -wc ^bin
+cat | grep ^bin | wc -l
